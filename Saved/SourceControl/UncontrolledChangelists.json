@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/richm/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/MJ/VAPTIN381T5O0VKFY4E77A.uasset",
+				"C:/Users/richm/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/7P/AJZPJQNERPNYE0E2Y954T1.uasset",
+				"C:/Users/richm/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/richm/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/richm/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/FirstPerson/Blueprints/BP_Target.uasset",
+				"C:/Users/richm/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/FirstPerson/Blueprints/GM_TargetGame.uasset",
+				"C:/Users/richm/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/FirstPerson/Blueprints/WBP_UI.uasset",
+				"C:/Users/richm/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/NQ/C1CIPNHWQ3EALVFSZN520Y.uasset",
+				"C:/Users/richm/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/FirstPerson/Blueprints/WBP_EndScreen.uasset",
+				"C:/Users/richm/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/WB/V4ALNTJYOVWM8BU452CKV5.uasset",
+				"C:/Users/richm/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB.uasset",
+				"C:/Users/richm/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/3M/4ATOKH0ZGPCVBS85MPKAXK.uasset",
+				"C:/Users/richm/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"C:/Users/richm/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CS/HO39BP2ET79EU60H6G1SG1.uasset",
+				"C:/Users/richm/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/FirstPerson/Blueprints/BP_Rifle.uasset",
+				"C:/Users/richm/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/FirstPerson/Blueprints/BP_Bullet.uasset",
+				"C:/Users/richm/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/Target/SM_Target_GeometryCollection.uasset",
+				"C:/Users/richm/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/CE/1WU9BJIIRQ14SOTHR0URG5.uasset",
+				"C:/Users/richm/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset",
+				"C:/Users/richm/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uasset",
+				"C:/Users/richm/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/63/MG6FOV6QQX2CAZCGF7O9MM.uasset",
+				"C:/Users/richm/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/7Y/YP7B6NB63FW0KAV0PNCHAQ.uasset",
+				"C:/Users/richm/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/HR/6L0D2PCPQ3YVGFKD7JVIAL.uasset",
+				"C:/Users/richm/OneDrive/Documents/Unreal Projects/MyFirstGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/0P/2CN2GTN5SCW8DA9NSYQS6Z.uasset"
+			]
+		}
+	]
+}
